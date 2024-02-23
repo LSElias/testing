@@ -7,7 +7,7 @@ function Landing() {
       id: 1,
       name: 'Venus',
       hex: '#ff49a8',
-      symbol: '❤'
+      symbol: '♡'
     },
     {
       id: 2,
@@ -37,7 +37,7 @@ function Landing() {
       id: 6,
       name: 'Pluto',
       hex: '#ff2828',
-      symbol: '♦️'
+      symbol: '♦'
     },
     
   ]
