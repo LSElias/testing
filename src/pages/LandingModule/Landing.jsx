@@ -13,7 +13,7 @@ function Landing() {
       id: 2,
       name: 'Sun',
       hex: '#ffc924',
-      symbol:'☀︎\u{0000FE0E}'
+      symbol:'✴'
     },
     {
       id: 3,
