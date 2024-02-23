@@ -25,7 +25,7 @@ function Landing() {
       id: 4,
       name: 'Saturn',
       hex: '#78b060',
-      symbol:'♄'
+      symbol:'ⴵ'
     },
     {
       id: 5,
