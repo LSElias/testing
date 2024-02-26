@@ -107,7 +107,7 @@ function Landing() {
   <li key={x.id} style={{color: x.main.hex}}>
    {x.main.symbol}
    <div className="additional-info">
-    <h2> ??? </h2>
+    <h2> {x.eName} </h2>
     <h3> {x.main.name} • {x.asc[0].name} • {x.asc[1].name} </h3> 
     
     <p> {x.start} — {x.end} </p>
